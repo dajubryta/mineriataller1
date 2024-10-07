@@ -1,0 +1,8 @@
+# Ignorar archivos temporales y carpetas innecesarias
+*.log
+*.tmp
+__pycache__/
+*.csv~
+*.xlsx~
+.vscode/
+*.csv
